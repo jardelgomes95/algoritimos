@@ -46,7 +46,7 @@ print(X <= Y)
 print(X >= Y)
 print(X < Y)
 print(X > Y)
-print(X != Y)
+print(X != Y) #diferente de...
 
 #operadores lógicos
 print('------------------------------')
